@@ -3,6 +3,8 @@
 
 A simple and fun command-line game where the computer randomly selects a number between 1 and 100, and the user tries to guess it within a limited number of attempts depending on the selected difficulty level.
 
+URL to project https://roadmap.sh/projects/number-guessing-game
+
 ---
 
 ## 🧩 Features
